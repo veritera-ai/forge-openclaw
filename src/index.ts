@@ -22,7 +22,7 @@ import type { VerifyResponse } from "@veritera.ai/sdk";
 export interface ForgeSkillConfig {
   /** Forge API key (vt_live_... or vt_test_...) */
   apiKey: string;
-  /** Base URL for Forge API (default: https://veritera.ai) */
+  /** Base URL for Forge API (default: https://forge.veritera.ai) */
   baseUrl?: string;
   /** Policy name to evaluate against (optional) */
   policy?: string;
