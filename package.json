@@ -22,7 +22,7 @@
   "author": "Veritera AI <engineering@veritera.ai>",
   "license": "MIT",
   "dependencies": {
-    "@veritera.ai/sdk": "^1.1.2"
+    "@veritera.ai/forge-verify": "^1.2.0"
   },
   "devDependencies": {
     "tsup": "^8.0.0",

@@ -14,8 +14,8 @@
  * Blocked actions never reach your tools.
  */
 
-import { Veritera as Forge } from "@veritera.ai/sdk";
-import type { VerifyResponse } from "@veritera.ai/sdk";
+import { Veritera as Forge } from "@veritera.ai/forge-verify";
+import type { VerifyResponse } from "@veritera.ai/forge-verify";
 
 // ── Types ──
 
