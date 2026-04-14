@@ -1,5 +1,8 @@
 # Forge + OpenClaw
 
+[![npm](https://img.shields.io/npm/v/@veritera.ai/forge-openclaw)](https://www.npmjs.com/package/@veritera.ai/forge-openclaw)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/veritera-ai/forge-openclaw/blob/main/LICENSE)
+
 Verification skill for [OpenClaw](https://openclaw.dev) agents. Every tool call is verified through [Forge](https://forge.veritera.ai) before execution — content-blind, sub-15ms, cryptographically signed.
 
 ## Install
